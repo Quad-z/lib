@@ -898,7 +898,7 @@ function Library:create(options)
 
 	creditsTab:credit{Name = "Abstract", Description = "UI Library Developer", Discord = "Quadraza", V3rmillion = "Quadraza"}
 	creditsTab:credit{Name = "Deity", Description = "UI LibraryDeveloper", Discord = "Quadraza", V3rmillion = "Quadraza"}
-	creditsTab:credit{Name = "Repository", Description = "UI Library Repository", Github="google.com"}
+	creditsTab:credit{Name = "Repository", Description = "UI Library Repository", Github="qquad.wtf"}
 
 	return mt
 end
